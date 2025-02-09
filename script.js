@@ -65,12 +65,6 @@ const products = [
       category: 'televisions',
       price: 29999.99,
     },
-    {
-      name: 'iPhone 14',
-      url: 'https://i.postimg.cc/T3vjhjbM/Screenshot-17.png',
-      category: 'smartphones',
-      price: 49999.99,
-    },
   ];
   
   // Get DOM elements
