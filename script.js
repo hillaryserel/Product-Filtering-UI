@@ -67,7 +67,7 @@ const products = [
     },
     {
       name: 'iPhone 14',
-      url: 'https://i.ibb.co/5vc7J6s/iphone-14.png',
+      url: 'https://i.postimg.cc/T3vjhjbM/Screenshot-17.png',
       category: 'smartphones',
       price: 49999.99,
     },
